@@ -1,0 +1,3 @@
+﻿  Pointers2.TZ.cpp
+E:\vs\projects\Pointers2.TZ\Pointers2.TZ\Pointers2.TZ.cpp(67,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  Pointers2.TZ.vcxproj -> E:\vs\projects\Pointers2.TZ\x64\Debug\Pointers2.TZ.exe

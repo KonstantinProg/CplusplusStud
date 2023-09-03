@@ -1,0 +1,2 @@
+E:\vs\projects\Test1\x64\Debug\Test1.exe
+E:\vs\projects\Test1_vivod\x64\Debug\Test1.exe
